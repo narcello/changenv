@@ -1,6 +1,6 @@
 {
   "name": "changenv",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Change env vars after build",
   "preferGlobal": true,
   "bin": {

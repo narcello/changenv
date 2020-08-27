@@ -1,3 +1,5 @@
+#!/bin/bash
+
 FIRST_ARGUMENT=$1
 SECOND_ARGUMENT=$2
 LINE=''
