@@ -1,0 +1,25 @@
+{
+  "name": "changenv",
+  "version": "0.0.1",
+  "description": "Change env vars after build",
+  "preferGlobal": true,
+  "bin": {
+    "changenv": "changenv.sh"
+  },
+  "author": {
+    "name": "Marcello Silva",
+    "email": "marcellovcs@gmail.com",
+    "url": "https://github.com/narcello"
+  },
+  "repository": "https://github.com/narcello/changenv",
+  "homepage": "https://narcello.github.io/changenv",
+  "keywords": [
+    "change",
+    "env",
+    "vars",
+    "environment",
+    "sh",
+    "build"
+  ],
+  "license": "ISC"
+}
